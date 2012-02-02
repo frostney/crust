@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="crust.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="crust"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="11" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="crustobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustObject"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="110"/>
+        <CursorPos X="51" Y="124"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="crustgraphics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustGraphics"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="crustnode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustNode"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="56" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="crustopengl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustOpenGL"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="28" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="crustscene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustScene"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="crustlayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustLayer"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="31" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="crustaudio.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustAudio"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="40" Y="10"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit7>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="16" HistoryIndex="15">
+      <Position1>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="28" Column="18" TopLine="9"/>
+      </Position1>
+      <Position2>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="40" Column="42" TopLine="26"/>
+      </Position2>
+      <Position3>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="45" Column="71" TopLine="28"/>
+      </Position3>
+      <Position4>
+        <Filename Value="crust.lpr"/>
+        <Caret Line="7" Column="14" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="42" Column="18" TopLine="33"/>
+      </Position5>
+      <Position6>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="9" Column="29" TopLine="1"/>
+      </Position6>
+      <Position7>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="21" Column="50" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="39" Column="19" TopLine="25"/>
+      </Position8>
+      <Position9>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="40" Column="46" TopLine="26"/>
+      </Position9>
+      <Position10>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="76" Column="21" TopLine="67"/>
+      </Position10>
+      <Position11>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="9" Column="46" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="15" Column="77" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="38" Column="41" TopLine="12"/>
+      </Position13>
+      <Position14>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="26" Column="50" TopLine="82"/>
+      </Position14>
+      <Position15>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="121" Column="59" TopLine="26"/>
+      </Position15>
+      <Position16>
+        <Filename Value="crustobject.pas"/>
+        <Caret Line="19" Column="78" TopLine="34"/>
+      </Position16>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

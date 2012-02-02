@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="crust.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="crust"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="crustobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustObject"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="crustgraphics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustGraphics"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="crustnode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustNode"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="crustopengl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustOpenGL"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="crustscene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustScene"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="crustlayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustLayer"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="crustaudio.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CrustAudio"/>
+      </Unit7>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="crust"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <RelocatableUnit Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+      <Options>
+        <ExecutableType Value="Library"/>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <ConfigFile>
+        <CustomConfigFile Value="True"/>
+        <ConfigFilePath Value="config.cfg"/>
+      </ConfigFile>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
