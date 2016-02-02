@@ -40,7 +40,3 @@ The next thing you need is Crust. Import the library, take a look at the example
 	int spriteId = sprite->attr("id");
 	
 Create your own topping (read game or other multimedia application).
-	
-	
-
-(C) Johannes Stein, 2012, http://www.freeze-dev.com
